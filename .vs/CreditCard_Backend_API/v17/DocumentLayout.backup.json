@@ -1,0 +1,444 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Aeries\\CreditCard_Backend_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\models\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\models\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\repositories\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\repositories\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\models\\dto\\productsrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\models\\dto\\productsrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\models\\dto\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\models\\dto\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\repositories\\interface\\iuserrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\repositories\\interface\\iuserrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\repositories\\implementation\\userrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\repositories\\implementation\\userrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\models\\domain\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\models\\domain\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\models\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\models\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\repositories\\implementation\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\repositories\\implementation\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\repositories\\interface\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\repositories\\interface\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\models\\dto\\userlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\models\\dto\\userlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\repositories\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\repositories\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\repositories\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\repositories\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\repositories\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\repositories\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|d:\\aeries\\creditcard_backend_api\\creditcard_backend_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1841F5A-43C4-4737-9C6D-3DAEC32ECF52}|CreditCard_Backend_API\\CreditCard_Backend_API.csproj|solutionrelative:creditcard_backend_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResetPasswordDTO.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Models\\DTO\\ResetPasswordDTO.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Models\\DTO\\ResetPasswordDTO.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Models\\DTO\\ResetPasswordDTO.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Models\\DTO\\ResetPasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:38:19.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:43:35.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAowIoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:09:50.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Program.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Program.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Program.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:29:49.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsRequestDto.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Models\\DTO\\ProductsRequestDto.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Models\\DTO\\ProductsRequestDto.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Models\\DTO\\ProductsRequestDto.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Models\\DTO\\ProductsRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:24:25.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Repositories\\Implementation\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Repositories\\Implementation\\ProductRepository.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Repositories\\Implementation\\ProductRepository.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Repositories\\Implementation\\ProductRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwDEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:39:26.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:11:42.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsDto.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Models\\DTO\\ProductsDto.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Models\\DTO\\ProductsDto.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Models\\DTO\\ProductsDto.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Models\\DTO\\ProductsDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:35:52.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRoleRepository.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Repositories\\Interface\\IUserRoleRepository.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Repositories\\Interface\\IUserRoleRepository.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Repositories\\Interface\\IUserRoleRepository.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Repositories\\Interface\\IUserRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:38:59.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Models\\Domain\\UserRoles.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Models\\Domain\\UserRoles.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Models\\Domain\\UserRoles.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Models\\Domain\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:37:20.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRoleRepository.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Repositories\\Implementation\\UserRoleRepository.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Repositories\\Implementation\\UserRoleRepository.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Repositories\\Implementation\\UserRoleRepository.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Repositories\\Implementation\\UserRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:42:59.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Repositories\\Interface\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Repositories\\Interface\\ITokenRepository.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Repositories\\Interface\\ITokenRepository.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Repositories\\Interface\\ITokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T20:26:57.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Models\\DTO\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Models\\DTO\\LoginRequestDto.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Models\\DTO\\LoginRequestDto.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Models\\DTO\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T20:19:57.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Models\\Domain\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Models\\Domain\\ApplicationUser.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Models\\Domain\\ApplicationUser.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Models\\Domain\\ApplicationUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:43:49.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Repositories\\Implementation\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Repositories\\Implementation\\TokenRepository.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Repositories\\Implementation\\TokenRepository.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Repositories\\Implementation\\TokenRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T20:26:06.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\appsettings.json",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\appsettings.json",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\appsettings.json",
+              "RelativeToolTip": "CreditCard_Backend_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T12:15:12.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:24:23.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Models\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Models\\DTO\\UserDto.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Models\\DTO\\UserDto.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Models\\DTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:42:57.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserListResponse.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Models\\DTO\\UserListResponse.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Models\\DTO\\UserListResponse.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Models\\DTO\\UserListResponse.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Models\\DTO\\UserListResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:22:51.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Repositories\\Implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Repositories\\Implementation\\UserRepository.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Repositories\\Implementation\\UserRepository.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Repositories\\Implementation\\UserRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:44:04.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Repositories\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Repositories\\Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Repositories\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Repositories\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:43:30.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Repositories\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Repositories\\Services\\UserService.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Repositories\\Services\\UserService.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Repositories\\Services\\UserService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:39:34.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Data\\AuthDbContext.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAiwEYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:37:22.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CreditCard_Backend_API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:54:43.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CreditCard_Backend_API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CreditCard_Backend_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T06:55:44.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

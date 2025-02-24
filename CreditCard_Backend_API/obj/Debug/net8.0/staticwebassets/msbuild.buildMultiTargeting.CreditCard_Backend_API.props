@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CreditCard_Backend_API.props" />
+</Project>
