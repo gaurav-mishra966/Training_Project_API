@@ -5,7 +5,7 @@ namespace CreditCard_Backend_API.Repositories.Implementation
 {
     public class ProductRepository:IProductRepository
     {
-        private readonly List<Products> _products;
+        private  List<Products> _products;
 
         public ProductRepository()
         {
@@ -34,17 +34,19 @@ namespace CreditCard_Backend_API.Repositories.Implementation
             await Task.CompletedTask;
         }
 
-        public async Task UpdateProductAsync(Products product)
+        public async Task<bool> UpdateProductAsync(Products product)
         {
             var existingProduct = _products.FirstOrDefault(p => p.Id == product.Id);
-            if (existingProduct != null)
+            if (existingProduct == null)
             {
-                existingProduct.Name = product.Name;
-                existingProduct.Description = product.Description;
-                existingProduct.Price = product.Price;
-                existingProduct.Image = product.Image;
+                return false;
             }
+            existingProduct.Name = product.Name;
+            existingProduct.Description = product.Description;
+            existingProduct.Price = product.Price;
+            existingProduct.Image = product.Image;
             await Task.CompletedTask;
+            return true;
         }
 
         public async Task DeleteProductAsync(int id)

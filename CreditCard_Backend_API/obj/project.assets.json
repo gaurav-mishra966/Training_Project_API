@@ -4342,11 +4342,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\CreditCard_Backend_API.csproj",
+      "projectUniqueName": "D:\\karaken\\CreditCard_Backend_API\\CreditCard_Backend_API.csproj",
       "projectName": "CreditCard_Backend_API",
-      "projectPath": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\CreditCard_Backend_API.csproj",
+      "projectPath": "D:\\karaken\\CreditCard_Backend_API\\CreditCard_Backend_API.csproj",
       "packagesPath": "C:\\Users\\gaurav.mishra\\.nuget\\packages\\",
-      "outputPath": "D:\\Aeries\\CreditCard_Backend_API\\CreditCard_Backend_API\\obj\\",
+      "outputPath": "D:\\karaken\\CreditCard_Backend_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

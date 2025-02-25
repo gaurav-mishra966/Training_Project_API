@@ -1,7 +1,7 @@
 ﻿using CreditCard_Backend_API.Models.DTO;
 using CreditCard_Backend_API.Repositories;
 using CreditCard_Backend_API.Repositories.Interface;
-using CreditCard_Backend_API.Repositories.Services;
+
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -22,7 +22,7 @@ namespace CreditCard_Backend_API.Controllers
         public async Task<ActionResult<List<UserDto>>> GetUsers()
         {
             var users = await _userRepository.GetAllUsersAsync();
-            var response = new UserListResponse
+            var response = new UserListResponseDTO
             {
                 TotalCount = users.Count,
                 Users = users

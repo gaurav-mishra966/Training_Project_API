@@ -1,7 +1,7 @@
 ﻿using CreditCard_Backend_API.Models.DTO;
 using CreditCard_Backend_API.Repositories.Interface;
 
-namespace CreditCard_Backend_API.Repositories.Services
+namespace CreditCard_Backend_API.Repositories.UserServices
 {
     public class UserService
     {

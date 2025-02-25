@@ -3,7 +3,7 @@ using CreditCard_Backend_API.Data;
 using CreditCard_Backend_API.Repositories;
 using CreditCard_Backend_API.Repositories.Implementation;
 using CreditCard_Backend_API.Repositories.Interface;
-using CreditCard_Backend_API.Repositories.Services;
+using CreditCard_Backend_API.Repositories.UserServices;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -24,7 +24,7 @@ builder.Services.AddCors(options =>
         }
         else
         {
-            policy.WithOrigins("http://localhost:4200/","*")
+            policy.WithOrigins("http://localhost:4200/","*", "http://localhost:4200/add-product")
             .AllowAnyMethod()
             .AllowAnyHeader();
         }
@@ -55,6 +55,7 @@ builder.Services.AddDbContext<AuthDbContext>(options =>
 builder.Services.AddScoped<ITokenRepository, TokenRepository>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IServicesRepository, ServiceRepository>();
 
 builder.Services.AddScoped<UserService>();
 //Adding Dependencies to the servies for role based identity providers

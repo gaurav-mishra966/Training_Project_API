@@ -28,7 +28,7 @@ namespace CreditCard_Backend_API.Controllers
         //Create
         [HttpPost]
         [Route("/Product/addProduct")]
-        public async Task<ActionResult> AddProduct([FromBody] ProductsRequestDto productDTO)
+        public async Task<IActionResult> AddProduct([FromBody] ProductsRequestDto productDTO)
         {
             if (productDTO == null)
             {
@@ -66,11 +66,17 @@ namespace CreditCard_Backend_API.Controllers
         {
             if (id != product.Id)
             {
-                return BadRequest();
+                return BadRequest("Product Id Mismatched");
             }
 
-            await _productRepository.UpdateProductAsync(product);
-            return NoContent();
+            var updateSuccess = await _productRepository.UpdateProductAsync(product);
+
+            if (!updateSuccess)
+            {
+                return NotFound("Product not found");
+            }
+            //await _productRepository.UpdateProductAsync(product);
+            return Ok(product);
         }
 
         [HttpDelete("{id}")]
